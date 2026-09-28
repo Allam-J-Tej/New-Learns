@@ -13,4 +13,13 @@ This repository documents my journey from Mechanical R&D Engineer to software de
 
 ## Author
 
-Tej Allam
+Tej Allam   
+
+## Progress
+
+### 2026-09-28
+
+- Created GitHub account.
+- Created first Git repository.
+- Made first commit.
+- Successfully pushed to GitHub.
