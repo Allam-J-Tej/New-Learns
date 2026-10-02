@@ -22,4 +22,9 @@ Tej Allam
 - Created GitHub account.
 - Created first Git repository.
 - Made first commit.
-- Successfully pushed to GitHub.
+- Successfully pushed to GitHub. 
+
+## Git Learning 
+
+This Repository is my practical workspace for learning git and github. 
+
